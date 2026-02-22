@@ -458,15 +458,16 @@ Submit the Unity project including:
 
 ---
 
-# Reflection Questions (Submit)
+# Lab Activity Answers
 
-1. What does the Detection Zone simulate in a “smart environment”?
-2. How does the NPC decide when to move?
-3. What changes made the environment feel more responsive?
-4. If you had real AI, what would you improve in this scene?
+**1. What does the Detection Zone simulate in a smart environment?**
+It acts like a sensor area that detects when someone enters a space and triggers automatic reactions, similar to motion sensors in real smart systems.
 
+**2. How does the NPC decide when to move?**
+The NPC checks how close the player is. If the player comes within a set distance, it starts moving toward them.
 
+**3. What changes made the environment feel more responsive?**
+The light changing, the alert sound, and the NPC reacting to the player made the scene feel alive instead of static.
 
-
-
-
+**4. If you had real AI, what would you improve in this scene?**
+I would add smarter NPC behavior, obstacle avoidance, and more realistic reactions like patrolling, talking, or changing actions based on the player.
